@@ -1,5 +1,4 @@
-require_relative "book.rb"
-require_relative "exception"
+require_relative "library"
 class Main
   def panel
     puts "Welcome to Library catalog"
@@ -11,28 +10,11 @@ class Main
     input=gets.chomp
     case input.to_i
     when 1
-        create_book 
+        Library.create_book 
     end
   end
 
-  def create_book 
-    puts "enter author name"
-    author_name=gets.chomp
-
-    puts "enter book details"
-    book_details=gets.chomp
-
-    begin
-      if(author_name.match?(/\d+/))
-        raise CustomException.new("invalid string")
-      end
-    rescue CustomException => e
-      puts e.message
-    end 
-
-    book=Book.new(author_name,book_details)
-    book.validate_book_details
-  end
+  
 end
 
 obj=Main.new
