@@ -2,3 +2,148 @@
   "author_name": "asd",
   "book_details": "add"
 }
+{
+  "author_name": "sadsd",
+  "book_details": "asds",
+  "id": null
+}
+{
+  "author_name": "ds",
+  "book_details": "sadf",
+  "id": null
+}
+{
+  "author_name": "sda",
+  "book_details": "ad",
+  "id": 688
+}
+{
+  "author_name": "1we",
+  "book_details": "as",
+  "id": 888
+}
+{
+  "author_name": "",
+  "book_details": "",
+  "id": 5
+}
+{
+  "author_name": "\"\"",
+  "book_details": "\"\"",
+  "id": 48
+}
+{
+  "author_name": "",
+  "book_details": "",
+  "id": 520
+}
+{
+  "author_name": "",
+  "book_details": "",
+  "id": 915
+}
+{
+  "author_name": "    ",
+  "book_details": "    ",
+  "id": 780
+}
+{
+  "author_name": "    ",
+  "book_details": "    ",
+  "id": 334
+}
+{
+  "author_name": "",
+  "book_details": "",
+  "id": 390
+}
+{
+  "author_name": "as",
+  "book_details": "as",
+  "id": 767
+}
+{
+  "author_name": "",
+  "book_details": "",
+  "id": 512
+}
+{
+  "author_name": "as",
+  "book_details": "sd",
+  "id": 866
+}
+{
+  "author_name": "   ",
+  "book_details": "    ",
+  "id": 804
+}
+{
+  "author_name": "q",
+  "book_details": "q",
+  "id": 726
+}
+{
+  "author_name": "a",
+  "book_details": "a",
+  "id": 747
+}
+{
+  "author_name": "asd",
+  "book_details": "asd",
+  "id": 800,
+  "availability": true
+}
+{
+  "author_name": "asd",
+  "book_details": "asd",
+  "id": 338,
+  "availability": true
+}
+{
+  "author_name": "ASA",
+  "book_details": "ASD",
+  "id": 309,
+  "availability": true
+}
+{
+  "author_name": "\u001b[A",
+  "book_details": "",
+  "id": 40,
+  "availability": true
+}
+{
+  "author_name": "asd",
+  "book_details": "asd",
+  "id": 22,
+  "availability": true
+}
+{
+  "author_name": "asd",
+  "book_details": "asd",
+  "id": 789,
+  "availability": true
+}
+{
+  "author_name": "as",
+  "book_details": "asd",
+  "id": 387,
+  "availability": true
+}
+{
+  "author_name": "asd",
+  "book_details": "ad",
+  "id": 199,
+  "availability": true
+}
+{
+  "author_name": "asdf",
+  "book_details": "asd",
+  "id": 281,
+  "availability": true
+}
+{
+  "author_name": "asd",
+  "book_details": "asd",
+  "id": 690,
+  "availability": true
+}

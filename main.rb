@@ -10,7 +10,19 @@ class Main
     input=gets.chomp
     case input.to_i
     when 1
-        Library.create_book 
+        obj=Library.new
+        obj.create_book
+
+    when 2
+        obj=Library.new
+        obj.list_book
+
+    when 3
+        obj=Library.new
+        obj.add_member
+    when 4
+        obj=Library.new
+        obj.borrow_book
     end
   end
 
@@ -19,3 +31,4 @@ end
 
 obj=Main.new
 obj.panel
+
