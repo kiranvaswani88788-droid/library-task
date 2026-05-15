@@ -1,8 +1,8 @@
 class Member
-	attr_accessor :name, :books, :id
-	def initialize(name,books,id)
+	attr_accessor :name, :borrow_details, :id
+	def initialize(name,borrow_details,id)
 		@name=name
-		@books=books
+		@borrow_details=borrow_details
 		@id=id
 	end
 end

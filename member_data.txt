@@ -1,38 +1,62 @@
-{
-  "name": "asd",
-  "books": [
+[
+  {
+    "name": "kiran",
+    "borrow_details": [
 
-  ]
-}
-{
-  "name": "asd",
-  "books": [
+    ],
+    "id": 1
+  },
+  {
+    "name": "kiran",
+    "borrow_details": [
 
-  ]
-}
-{
-  "name": "Dafgd",
-  "books": [
+    ],
+    "id": 2
+  },
+  {
+    "name": "sdfhisd hf",
+    "borrow_details": [
 
-  ]
-}
-{
-  "name": "asd",
-  "books": [
+    ],
+    "id": 3
+  },
+  {
+    "name": "mohit",
+    "borrow_details": [
+      {
+        "book_id": 4,
+        "borrow_date": "2026-05-15",
+        "due_date": "2026-05-29"
+      }
+    ],
+    "id": 4
+  },
+  {
+    "name": "qasd",
+    "borrow_details": [
 
-  ]
-}
-{
-  "name": "asdfg",
-  "books": [
+    ],
+    "id": 5
+  },
+  {
+    "name": "asdf",
+    "borrow_details": [
 
-  ],
-  "id": 450
-}
-{
-  "name": "asdfg",
-  "books": [
+    ],
+    "id": 7
+  },
+  {
+    "name": "demo",
+    "borrow_details": [
 
-  ],
-  "id": 474
-}
+    ],
+    "id": 8
+  },
+  {
+    "name": "swdr",
+    "borrow_details": [
+
+    ],
+    "id": 11
+  }
+]
